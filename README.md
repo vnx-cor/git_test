@@ -1,4 +1,4 @@
-# git_test
+# my-odin-projects
 This repository is created to follow the instructions provided by The Odin Project (Currently in the Git Basics).
 
 Hello Odin!
